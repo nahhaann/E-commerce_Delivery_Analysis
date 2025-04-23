@@ -27,17 +27,21 @@ To analyze e-commerce delivery data to understand the impact of logistics on del
 
 1. Late Deliveries:
           - Over 30% of deliveries were late, significantly affecting customer ratings.
+   
           - Most delays occurred in Standard Class shipping mode.
 3. Customer Satisfaction:
           - Deliveries completed on time scored an average customer rating of 4.3+, while late deliveries averaged below 2.5.
 4. City-Wise Performance:
           - Major delays were observed in Tier 2 cities, suggesting logistical inefficiencies.
+   
           - New Delhi and Mumbai had better delivery timelines compared to smaller cities.
-5. Shipping Modes:
+6. Shipping Modes:
           - Same Day and First Class deliveries performed significantly better in terms of timeliness and ratings.
+   
           - Standard Class had the highest number of delays.
-6. Product and Category Impact:
+8. Product and Category Impact:
           - Electronics and Health-related products had better delivery performance.
+   
           - High-value items were more likely to be delivered on time.
 
 ## 📊 Dashboard Preview
